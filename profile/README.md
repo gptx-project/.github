@@ -49,7 +49,7 @@ Want to help build the AI sustainability layer?
 
 ## 📝 License
 
-BSL 1.1 [(See Justifications in our Community and Whitepaper repo)](https://github.com/gptx-project/gptx-whitepaper)
+BSL 1.1 [(See Justifications)](https://github.com/gptx-project/gptx-whitepaper/blob/main/GPTX_License_Justification.md)
 
 ---
 
